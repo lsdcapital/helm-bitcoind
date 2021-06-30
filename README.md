@@ -1,3 +1,7 @@
+# Note
+
+This repo is archived in favour of the bitcoin helm chart in lsdcapital/helm-charts/bitcoind
+
 # Bitcoin Helm Chart
 
 By default it has 500gi persistant storage mounted to /data (tested on GKE. Please help test on others)
